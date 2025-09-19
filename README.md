@@ -1,2 +1,5 @@
 # Fist_Repo
-My fist Repo for Intro
+<h1>Ujjawal Bhardwaj</h1>
+<p>
+  Hi, I’m a Data Scientist and I’m eager to deepen my knowledge in Machine Learning.
+</p>
